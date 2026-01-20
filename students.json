@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "name": "Pavendra Kumar Gupta",
+    "parent": "BPG Gupta",
+    "dob": "11 48 543",
+    "age": "20",
+    "aadhar": "85734346235",
+    "birth": "85734346235",
+    "photo": "85734346235",
+    "contact": "gui",
+    "address": "yui"
+  },
+  {
+    "id": "2",
+    "name": "Nagendra",
+    "parent": "BP Gupta",
+    "dob": "2025-2-3",
+    "age": 0,
+    "aadhar": "852741963852",
+    "contact": "9638527412",
+    "address": "village xxx dist xxx mp"
+  }
+]
